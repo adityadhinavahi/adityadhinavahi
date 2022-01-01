@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityadhinavahi
 - 👀 I am interested in solving some crazy challenges in Data Science
-- 🌱 I’m currently an intern at Udaan.com
+- 🌱 I'm currently looking for working opportunities related to Data Science
 - 📫 You can reach me at dhinavahiaditya@gmail.com
 
 <!---
